@@ -3,7 +3,7 @@ tensorflow==2.17.0      # For TensorFlow-based projects
 torch==2.0.1            # For PyTorch-based projects
 
 # Data Manipulation and Scientific Computing
-numpy==1.24.0
+numpy==1.22.0
 pandas==1.5.0
 scikit-learn==1.2.0     # Machine learning utilities
 
